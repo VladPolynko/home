@@ -1,1 +1,10 @@
 init
+<<<<<<< HEAD
+=======
+comm1
+comm2
+
+
+comm1.1
+comm1.2
+>>>>>>> 86315ae... ff2
